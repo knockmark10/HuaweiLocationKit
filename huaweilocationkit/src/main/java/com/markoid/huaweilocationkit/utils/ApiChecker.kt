@@ -4,6 +4,7 @@ import android.Manifest
 import android.content.Context
 import android.content.pm.PackageManager
 import android.location.LocationManager
+import androidx.core.content.ContextCompat
 
 class ApiChecker(private val mContext: Context) {
 
