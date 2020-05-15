@@ -1,0 +1,3 @@
+rootProject.name='HuaweiLocationKit'
+include ':app'
+include ':huaweilocationkit'
